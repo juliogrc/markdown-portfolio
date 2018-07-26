@@ -1,1 +1,1 @@
-[Profile] (https://github.com/juliogrc)
+[Profile](https://github.com/juliogrc)
